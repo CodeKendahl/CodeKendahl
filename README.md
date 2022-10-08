@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeKendahl
+- 👋 Hi, I’m @CodeKendahl !
 - 👀 I’m interested in programming & natural language processing. 
 - 🌱 I’m currently learning Java, SQL & Python.
 - 💞️ I’m looking to network and collaborate! 
