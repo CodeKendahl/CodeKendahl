@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeKendahl !
 - 👀 I’m interested in programming & natural language processing. 
-- 🌱 I’m currently learning Java, SQL & Python.
+- 🌱 I’m currently learning DSA, Python, Java & SQL.
 - 💞️ I’m looking to network and collaborate! 
 - 📫 How to reach me: gkendahl@gmail.com
 
